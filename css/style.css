@@ -1,0 +1,37 @@
+article.diagonisma {
+	margin-bottom: 30px;
+}
+.diagonisma-meta {
+	background-color: #f5f5f5;
+	border: 1px solid #e8e8e8;
+	padding: 10px
+}
+span.diagonisma-meta-header {
+	font-weight: bold;
+	line-height: 30px;
+}
+ul.diagonisma-meta-ul {
+	list-style-type: none;
+	margin: 0;
+}
+ul.diagonisma-meta-ul li {
+	margin: 0;
+}
+.diagonisma-content {
+    margin: 30px 0;
+}
+.erotisi-single {
+	background-color: #d9edf7;
+	border: 1px solid #bce8f1;
+	padding: 15px;
+	margin: 10px 0;
+	border-radius: 2px;
+}
+.erotisi-title {
+	margin-bottom: 10px;
+}
+.erotisi-content {
+	font-style: italic;
+	display: inline-block;
+	padding: 10px 10px 0 10px;
+}
